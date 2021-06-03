@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/react-bbbs/static/css/main.8db12d0a.chunk.css",
-    "main.js": "/react-bbbs/static/js/main.316db867.chunk.js",
-    "main.js.map": "/react-bbbs/static/js/main.316db867.chunk.js.map",
+    "main.css": "/react-bbbs/static/css/main.bdf2239d.chunk.css",
+    "main.js": "/react-bbbs/static/js/main.cfed8494.chunk.js",
+    "main.js.map": "/react-bbbs/static/js/main.cfed8494.chunk.js.map",
     "runtime-main.js": "/react-bbbs/static/js/runtime-main.c23c6153.js",
     "runtime-main.js.map": "/react-bbbs/static/js/runtime-main.c23c6153.js.map",
     "static/js/2.dff7d1b2.chunk.js": "/react-bbbs/static/js/2.dff7d1b2.chunk.js",
     "static/js/2.dff7d1b2.chunk.js.map": "/react-bbbs/static/js/2.dff7d1b2.chunk.js.map",
     "index.html": "/react-bbbs/index.html",
-    "static/css/main.8db12d0a.chunk.css.map": "/react-bbbs/static/css/main.8db12d0a.chunk.css.map",
+    "static/css/main.bdf2239d.chunk.css.map": "/react-bbbs/static/css/main.bdf2239d.chunk.css.map",
     "static/js/2.dff7d1b2.chunk.js.LICENSE.txt": "/react-bbbs/static/js/2.dff7d1b2.chunk.js.LICENSE.txt",
     "static/media/index.css": "/react-bbbs/static/media/Proto Grotesk-Light-Web.c43cb6b7.woff",
     "static/media/PersonalAccount.css": "/react-bbbs/static/media/personal-account-btn-add-photo.aa8bde5f.svg",
@@ -26,7 +26,7 @@
   "entrypoints": [
     "static/js/runtime-main.c23c6153.js",
     "static/js/2.dff7d1b2.chunk.js",
-    "static/css/main.8db12d0a.chunk.css",
-    "static/js/main.316db867.chunk.js"
+    "static/css/main.bdf2239d.chunk.css",
+    "static/js/main.cfed8494.chunk.js"
   ]
 }
