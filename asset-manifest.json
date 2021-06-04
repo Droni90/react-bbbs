@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-bbbs/static/css/main.bdf2239d.chunk.css",
-    "main.js": "/react-bbbs/static/js/main.cfed8494.chunk.js",
-    "main.js.map": "/react-bbbs/static/js/main.cfed8494.chunk.js.map",
+    "main.css": "/react-bbbs/static/css/main.00d24adb.chunk.css",
+    "main.js": "/react-bbbs/static/js/main.ae42f1bd.chunk.js",
+    "main.js.map": "/react-bbbs/static/js/main.ae42f1bd.chunk.js.map",
     "runtime-main.js": "/react-bbbs/static/js/runtime-main.c23c6153.js",
     "runtime-main.js.map": "/react-bbbs/static/js/runtime-main.c23c6153.js.map",
-    "static/js/2.dff7d1b2.chunk.js": "/react-bbbs/static/js/2.dff7d1b2.chunk.js",
-    "static/js/2.dff7d1b2.chunk.js.map": "/react-bbbs/static/js/2.dff7d1b2.chunk.js.map",
+    "static/js/2.e31d69e4.chunk.js": "/react-bbbs/static/js/2.e31d69e4.chunk.js",
+    "static/js/2.e31d69e4.chunk.js.map": "/react-bbbs/static/js/2.e31d69e4.chunk.js.map",
     "index.html": "/react-bbbs/index.html",
-    "static/css/main.bdf2239d.chunk.css.map": "/react-bbbs/static/css/main.bdf2239d.chunk.css.map",
-    "static/js/2.dff7d1b2.chunk.js.LICENSE.txt": "/react-bbbs/static/js/2.dff7d1b2.chunk.js.LICENSE.txt",
+    "static/css/main.00d24adb.chunk.css.map": "/react-bbbs/static/css/main.00d24adb.chunk.css.map",
+    "static/js/2.e31d69e4.chunk.js.LICENSE.txt": "/react-bbbs/static/js/2.e31d69e4.chunk.js.LICENSE.txt",
     "static/media/index.css": "/react-bbbs/static/media/Proto Grotesk-Light-Web.c43cb6b7.woff",
     "static/media/PersonalAccount.css": "/react-bbbs/static/media/personal-account-btn-add-photo.aa8bde5f.svg",
     "static/media/StoryCard.css": "/react-bbbs/static/media/forward-black.b2be3924.svg",
@@ -19,14 +19,12 @@
     "static/media/popup.css": "/react-bbbs/static/media/popup-feedback-button.20133810.svg",
     "static/media/logoSBSS-blue.2968d95e.svg": "/react-bbbs/static/media/logoSBSS-blue.2968d95e.svg",
     "static/media/logoSBSS.347eb317.svg": "/react-bbbs/static/media/logoSBSS.347eb317.svg",
-    "static/media/page-not-found.5f54d91f.svg": "/react-bbbs/static/media/page-not-found.5f54d91f.svg",
-    "static/media/QuestionCard.css": "/react-bbbs/static/media/questions-button.fe2758e3.svg",
-    "static/media/success-popup.0982a167.svg": "/react-bbbs/static/media/success-popup.0982a167.svg"
+    "static/media/QuestionCard.css": "/react-bbbs/static/media/questions-button.fe2758e3.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.c23c6153.js",
-    "static/js/2.dff7d1b2.chunk.js",
-    "static/css/main.bdf2239d.chunk.css",
-    "static/js/main.cfed8494.chunk.js"
+    "static/js/2.e31d69e4.chunk.js",
+    "static/css/main.00d24adb.chunk.css",
+    "static/js/main.ae42f1bd.chunk.js"
   ]
 }
